@@ -1,0 +1,6 @@
+# ninja log v6
+2	566	1729023754629380173	CMakeFiles/Prototype.dir/Shape.cpp.o	ab31712361a53e42
+1	572	1729023754628032545	CMakeFiles/Prototype.dir/Prototype.cpp.o	fe0403477a6c354e
+2	572	1729023754629573090	CMakeFiles/Prototype.dir/Circle.cpp.o	68bf5bf4ae03f98a
+2	573	1729023754629747716	CMakeFiles/Prototype.dir/Rectangle.cpp.o	d6d0e35ab8cba9ec
+573	681	1729023755200393255	Prototype	7761298a8129e714

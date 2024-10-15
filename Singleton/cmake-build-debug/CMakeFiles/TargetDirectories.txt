@@ -1,0 +1,3 @@
+/Users/plamenstoynev/Documents/Coding/C++/OOPDesignPatterns/Singleton/cmake-build-debug/CMakeFiles/SingletonExample.dir
+/Users/plamenstoynev/Documents/Coding/C++/OOPDesignPatterns/Singleton/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/plamenstoynev/Documents/Coding/C++/OOPDesignPatterns/Singleton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
